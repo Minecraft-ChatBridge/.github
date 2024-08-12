@@ -12,4 +12,4 @@
 -->
 这是一个基于 NoneBot2 开发的 Minecraft QQ 机器人，支持多服互联，可通过多种方式连接服务器。
 
-我们的官网在 https://qqbot.ylmty.cc
+我们的官网在 https://qqbot.bugjump.xyz/
