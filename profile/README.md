@@ -1,4 +1,4 @@
-## Hi Minecraft_ChatBridge
+## Welcome to Minecraft_QQBot!
 
 <!--
 
