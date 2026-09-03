@@ -10,6 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+> [!CAUTION]
+> 本项目已停止维护，现迁移到 [UniBot](https://github.com/MineJPGcraft/UniBot) 支持更多服务端、各种平台。
+
 这是一个基于 NoneBot2 开发的 Minecraft 机器人，支持多服互联，可通过多种方式连接服务器。
 
 我们的官网在 [https://mcbot.ytb.icu](https://mcbot.ytb.icu)
